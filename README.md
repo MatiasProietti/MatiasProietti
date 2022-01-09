@@ -8,19 +8,19 @@ I'm currently working as a SSr. Angular Developer at [Mobile Computing](https://
 <h2>💬 About me</h2>
 
 I'm a fast learner and I love to learn, it can be a programming language, a framework or even a new way of doing something I already know, if for some reason I stumbled upon it then I learn about it.<br>
-This passion for learning helps me understand exactly what I'm doing and why, it is also a powerful tool that gives a variety of tools to solve any problem I might encounter.
+This passion for learning helps me understand exactly what I'm doing and why, it also gives a variety of tools to solve any problem I might encounter.
 
 <h2>⭐ Favourite technologies and tools</h2>
 <ul>
   <li>🌐 Frontend: <b>Angular</b>
   <li>👨‍💻 Backend: <b>Laravel</b>
   <li>🤖 RPA: <b>Python</b> and <b>AutoHotkey</b>
-  <li>🪟 UI: <b>Material</b>
+  <li>📈 UI: <b>Material</b>
 </ul>
 
 <h2>🌱 Projects</h2>
 
- - [Yet Another Angular Boilerplate](https://github.com/MatiasProietti/yet-another-angular-boilerplate). The idea behind this project is to have a solid, modular and easy to use boilerplate for free. Working on it helps me learn and polish my skills as a developer and also allows me to contribute.
+ - [Yet Another Angular Boilerplate](https://github.com/MatiasProietti/yet-another-angular-boilerplate). The idea behind this project is to have a solid, up to date, free, modular and easy to use boilerplate. Working on it helps me learn and polish my skills as a developer and at the same time it allows me to contribute with an open source software.
  - My portfolio webpage.
  - Yet another Laravel Boilerplate. This project follows the same ideas as the Angular Boilerplate but for backend using Laravel. The main idea is to connect both projects to provide a Full Stack Boilerplate.
 
