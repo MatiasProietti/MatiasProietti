@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Matías</h1>
-<h3>A passionate learner and Frontend Developer from Argentina.</h3>
+<h3>A passionate learner and Frontend Developer from Argentina (currently living in Spain).</h3>
 
 I've been working as a Frontend Developer with Angular, Vue and Ionic since 2019. During that time I also used a lot of different technologies and tools like Laravel, Python, Illustrator, Photoshop and C++.
 
-I'm currently working as a SSr. Angular Developer at [Mobile Computing](https://www.mobilecomputing.com.ar), a software factory from Argentina that works with big clients like Quilmes, Walmart, HSBC, Samsung, Visa, Pepsico, etc.
+I'm currently working as a Sr. Angular Engineer at [ADP](https://adp.com).
 
 <h2>💬 About me</h2>
 
