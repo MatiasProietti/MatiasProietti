@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Matías</h1>
-<h3>A passionate learner and Frontend Developer from Argentina (currently living in Spain).</h3>
+<h3>A Frontend Developer from Argentina (currently living in Spain).</h3>
 
-I've been working as a Frontend Developer with Angular, Vue and Ionic since 2019. During that time I also used a lot of different technologies and tools like Laravel, Python, Illustrator, Photoshop and C++.
+I've been working as a Frontend Developer with Angular, Vue and Ionic since 2019. During that time I also used a lot of different technologies and tools like Laravel for backend, Python for automation, C++ for desktop apps and backend, and many others.
 
-I'm currently working as a Sr. Angular Engineer at [ADP](https://adp.com).
+I'm currently working as a Sr. Frontend Engineer at [ADP](https://adp.com).
 
 <h2>💬 About me</h2>
 
